@@ -58,7 +58,7 @@ export default function TaskList() {
         <div className="wrapper-message">
           <span className="icon-check" />
           <p className="title-message">You have no tasks</p>
-          <p className="subtitle-message">Sit back and relax</p>
+          <p className="subtitle-message">Sit back and relax~~</p>
         </div>
       </div>
     );
